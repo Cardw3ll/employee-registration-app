@@ -1,0 +1,220 @@
+.block{
+    position: absolute;
+  width: 580px;
+  height: 715px;
+  left: 466px;
+  top: 173px;
+  
+  background: #F5F5F5;
+  }
+  .logText{
+    position: absolute;
+  width: 132px;
+  height: 58px;
+  left: 690px;
+  top: 194px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 58px;
+  /* identical to box height */
+  
+  
+  color: #0D0D0D;
+  }
+  .userN{
+    position: absolute;
+    width: 124px;
+    height: 29px;
+    left: 537px;
+    top: 311px;
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+  
+  
+    color: #000000;
+  }
+  .stBlock{
+    position: absolute;
+    width: 478px;
+    height: 63px;
+    left: 517px;
+    top: 340px;
+   text-align: center;
+    background: #D9D9D9;
+    opacity: 0.65;
+    border-radius: 30px;
+  }
+  .passW{
+    position: absolute;
+  width: 120px;
+  height: 29px;
+  left: 537px;
+  top: 433px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+  }
+  .tBlock{
+    position: absolute;
+  width: 478px;
+  height: 63px;
+  left: 517px;
+  top: 462px;
+  text-align: center;
+  background: #D9D9D9;
+  opacity: 0.65;
+  border-radius: 30px;
+  }
+  .button{
+    position: absolute;
+    width: 478px;
+    height: 61px;
+    left: 525px;
+    top: 494px;
+  
+    background: url(./components/bac.jpg);
+  background-size: cover;
+    border-radius: 30px;
+  }
+  .logT{
+    position: absolute;
+  width: 113px;
+  height: 44px;
+  left: 180px;
+  top: 10px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height */
+  
+  
+  color: #FFFFFF;
+  }
+  .tex{
+    position: absolute;
+  width: 95px;
+  height: 24px;
+  left: 708px;
+  top: 694px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+  }
+  .signT{
+    position: absolute;
+  width: 72px;
+  height: 24px;
+  left: 50px;
+  top: 10px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+  }
+  .button1{
+    position: absolute;
+  width: 186px;
+  height: 43px;
+  left: 663px;
+  top: 750px;
+  
+  background: #D9D9D9;
+  border-radius: 30px;
+  }
+  .psw{
+    position: absolute;
+  width: 161px;
+  height: 24px;
+  left: 834px;
+  top: 680px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+  }
+  .rem{
+    position: absolute;
+  width: 161px;
+  height: 24px;
+  left: 534px;
+  top: 680px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+  }
+  input[type=text], input[type=password] {
+    font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  /* color: #000000; */
+  }
+  .input-icons i {
+            position: absolute;
+            left: 530px;
+            top: 340px;
+        }
+  
+        .input-icons {
+            width: 100%;
+            margin-bottom: 10px;
+        }
+  
+        .icon {
+            padding: 10px;
+            min-width: 90px;
+        }
+        .input-icons1 i {
+                  position: absolute;
+                  left: 530px;
+                  top: 460px;
+              }
+  
+              .input-icons {
+                  width: 100%;
+                  margin-bottom: 10px;
+              }
+  
+              .icon {
+                  padding: 10px;
+                  min-width: 90px;
+              }
+  

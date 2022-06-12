@@ -1,0 +1,370 @@
+.theWhite{
+    position: absolute;
+  width: 580px;
+  height: 936px;
+  left: 466px;
+  top: 41px;
+  
+  background: #F5F5F5;
+  }
+  .block1{
+    position: absolute;
+  width: 478px;
+  height: 63px;
+  left: 523px;
+  top: 167px;
+  text-align: center;
+  background: #D9D9D9;
+  opacity: 0.65;
+  border-radius: 30px;
+  }
+  .block2{
+    position: absolute;
+  width: 478px;
+  height: 63px;
+  left: 523px;
+  top: 289px;
+  text-align: center;
+  background: #D9D9D9;
+  opacity: 0.65;
+  border-radius: 30px;
+  }
+  .block3{
+    position: absolute;
+  width: 478px;
+  height: 63px;
+  left: 523px;
+  top: 417px;
+  text-align: center;
+  background: #D9D9D9;
+  opacity: 0.65;
+  border-radius: 30px;
+  }
+  .block4{
+    position: absolute;
+  width: 478px;
+  height: 63px;
+  left: 530px;
+  top: 541px;
+  text-align: center;
+  background: #D9D9D9;
+  opacity: 0.65;
+  border-radius: 30px;
+  }
+  .block5{
+    position: absolute;
+  width: 478px;
+  height: 63px;
+  left: 530px;
+  top: 649px;
+  text-align: center;
+  background: #D9D9D9;
+  opacity: 0.65;
+  border-radius: 30px;
+  }
+  .block6{
+    position: absolute;
+  width: 478px;
+  height: 63px;
+  left: 525px;
+  top: 771px;
+  text-align: center;
+  background: #D9D9D9;
+  opacity: 0.65;
+  border-radius: 30px;
+  }
+  .RegisterT{
+    position: absolute;
+    width: 188px;
+    height: 30px;
+    left: 125px;
+    top: 11px;
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+  
+    color: #FFFFFF;
+  }
+  .buttonR{
+    position: absolute;
+    width: 478px;
+    height: 61px;
+    left: 543px;
+  top: 782px;
+  
+    background: url(./components/bac.jpg);
+  background-size: cover;
+    border-radius: 30px;
+  }
+  .button2{
+    position: absolute;
+  width: 186px;
+  height: 43px;
+  left: 763px;
+  top: 860px;
+  
+  background: #D9D9D9;
+  border-radius: 30px;
+  }
+  .text1{
+    position: absolute;
+  width: 95px;
+  height: 24px;
+  left: 640px;
+  top: 910px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+  }
+  .LogT1{
+    position: absolute;
+  width: 58px;
+  height: 24px;
+  left: 61px;
+  top: 10px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+  }
+  .psw1{
+    position: absolute;
+  width: 161px;
+  height: 24px;
+  left: 834px;
+  top: 680px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+  }
+  .RegsiterText{
+    position: absolute;
+  width: 201px;
+  height: 58px;
+  left: 688px;
+  top: 47px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 58px;
+  /* identical to box height */
+  
+  
+  color: #0D0D0D;
+  }
+  .userEmail{
+  
+    position: absolute;
+    width: 169px;
+    height: 29px;
+    left: 543px;
+    top: 138px;
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+  
+  
+    color: #000000;
+  }
+  .userFirst{
+    position: absolute;
+    width: 132px;
+    height: 29px;
+    left: 543px;
+    top: 260px;
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+  
+  
+    color: #000000;
+  }
+  .userLast{
+    position: absolute;
+    width: 130px;
+    height: 29px;
+    left: 543px;
+    top: 388px;
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+  
+  
+    color: #000000;
+  
+  }
+  .userN1{
+    position: absolute;
+    width: 130px;
+    height: 29px;
+    left: 543px;
+    top: 510px;
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+  
+  
+    color: #000000;
+  
+  }
+  .passW1{
+    position: absolute;
+    width: 130px;
+    height: 29px;
+    left: 543px;
+    top: 620px;
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+  
+  
+    color: #000000;
+  
+  }
+  .passW2{
+    position: absolute;
+  width: 230px;
+  height: 29px;
+  left: 543px;
+  top: 728px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+  
+  }
+  
+  
+  
+  
+  .input-icons3 i {
+            position: absolute;
+            left: 530px;
+            top: 165px;
+        }
+  
+        .input-icons {
+            width: 100%;
+            margin-bottom: 10px;
+        }
+  
+        .icon {
+            padding: 10px;
+            min-width: 90px;
+        }    .input-icons4 i {
+                      position: absolute;
+                      left: 530px;
+                      top: 290px;
+                  }
+  
+                  .input-icons {
+                      width: 100%;
+                      margin-bottom: 10px;
+                  }
+  
+                  .icon {
+                      padding: 10px;
+                      min-width: 90px;
+                  }    .input-icons5 i {
+                                position: absolute;
+                                left: 530px;
+                                top: 420px;
+                            }
+  
+                            .input-icons {
+                                width: 100%;
+                                margin-bottom: 10px;
+                            }
+  
+                            .icon {
+                                padding: 10px;
+                                min-width: 90px;
+                            }    .input-icons6 i {
+                                          position: absolute;
+                                          left: 530px;
+                                          top: 540px;
+                                      }
+  
+                                      .input-icons {
+                                          width: 100%;
+                                          margin-bottom: 10px;
+                                      }
+  
+                                      .icon {
+                                          padding: 10px;
+                                          min-width: 90px;
+                                      }    .input-icons7 i {
+                                                    position: absolute;
+                                                    left: 530px;
+                                                    top: 650px;
+                                                }
+  
+                                                .input-icons {
+                                                    width: 100%;
+                                                    margin-bottom: 10px;
+                                                }
+  
+                                                .icon {
+                                                    padding: 10px;
+                                                    min-width: 90px;
+                                                }    .input-icons8 i {
+                                                              position: absolute;
+                                                              left: 530px;
+                                                              top: 770px;
+                                                          }
+  
+                                                          .input-icons {
+                                                              width: 100%;
+                                                              margin-bottom: 10px;
+                                                          }
+  
+                                                          .icon {
+                                                              padding: 10px;
+                                                              min-width: 90px;
+                                                          }
+  
